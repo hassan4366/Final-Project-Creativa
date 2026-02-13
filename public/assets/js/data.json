@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Sofa",
+    "category": "Living Room",
+    "price": 850,
+    "description": "Comfortable 3-seater modern sofa with soft cushions.",
+    "images": [
+      "/assets/images/property-04.jpg"
+    ],
+    "stock": 12,
+    "rating": 4.5,
+    "tags": ["sofa", "modern", "living room"],
+    "sku": "SOF-001",
+    "availabilityStatus": "In Stock",
+    "dimensions": "220x90x85 cm",
+    "material": "Fabric",
+    "brand": "ComfortHome"
+  },
+  {
+    "id": 2,
+    "title": "Wooden Dining Table",
+    "category": "Dining Room",
+    "price": 650,
+    "description": "Solid oak dining table for 6 people.",
+    "images": [
+      "/assets/images/property-04.jpg"
+    ],
+    "stock": 8,
+    "rating": 4.7,
+    "tags": ["table", "wood", "dining"],
+    "sku": "DIN-002",
+    "availabilityStatus": "In Stock",
+    "dimensions": "180x90x75 cm",
+    "material": "Oak Wood",
+    "brand": "OakStyle"
+  },
+  {
+    "id": 3,
+    "title": "Office Chair",
+    "category": "Office",
+    "price": 220,
+    "description": "Ergonomic office chair with lumbar support.",
+    "images": [
+      "/assets/images/property-04.jpg"
+    ],
+    "stock": 20,
+    "rating": 4.3,
+    "tags": ["chair", "office", "ergonomic"],
+    "sku": "OFF-003",
+    "availabilityStatus": "In Stock",
+    "dimensions": "60x60x110 cm",
+    "material": "Mesh & Metal",
+    "brand": "WorkPro"
+  },
+  {
+    "id": 4,
+    "title": "Queen Size Bed",
+    "category": "Bedroom",
+    "price": 980,
+    "description": "Queen size bed frame with storage drawers.",
+    "images": [
+      "/assets/images/property-05.jpg"
+    ],
+    "stock": 5,
+    "rating": 4.8,
+    "tags": ["bed", "bedroom", "storage"],
+    "sku": "BED-004",
+    "availabilityStatus": "Limited Stock",
+    "dimensions": "160x200x100 cm",
+    "material": "Engineered Wood",
+    "brand": "DreamHouse"
+  },
+  {
+    "id": 5,
+    "title": "Coffee Table",
+    "category": "Living Room",
+    "price": 180,
+    "description": "Minimalist coffee table with glass top.",
+    "images": [
+      "/assets/images/property-05.jpg"
+    ],
+    "stock": 15,
+    "rating": 4.2,
+    "tags": ["table", "coffee", "glass"],
+    "sku": "COF-005",
+    "availabilityStatus": "In Stock",
+    "dimensions": "100x60x45 cm",
+    "material": "Glass & Metal",
+    "brand": "UrbanDecor"
+  },
+  {
+    "id": 6,
+    "title": "Wardrobe Closet",
+    "category": "Bedroom",
+    "price": 750,
+    "description": "Spacious 3-door wardrobe with mirror.",
+    "images": [
+      "/assets/images/property-05.jpg"
+    ],
+    "stock": 7,
+    "rating": 4.6,
+    "tags": ["wardrobe", "closet", "storage"],
+    "sku": "WAR-006",
+    "availabilityStatus": "In Stock",
+    "dimensions": "150x60x200 cm",
+    "material": "MDF Wood",
+    "brand": "HomeStore"
+  },
+  {
+    "id": 7,
+    "title": "Bookshelf",
+    "category": "Office",
+    "price": 300,
+    "description": "5-tier wooden bookshelf for home or office.",
+    "images": [
+      "/assets/images/property-06.jpg"
+    ],
+    "stock": 10,
+    "rating": 4.4,
+    "tags": ["bookshelf", "storage", "wood"],
+    "sku": "BOK-007",
+    "availabilityStatus": "In Stock",
+    "dimensions": "80x30x180 cm",
+    "material": "Pine Wood",
+    "brand": "ShelfMaster"
+  },
+  {
+    "id": 8,
+    "title": "TV Stand",
+    "category": "Living Room",
+    "price": 400,
+    "description": "Modern TV stand with drawers and shelves.",
+    "images": [
+      "/assets/images/property-06.jpg"
+    ],
+    "stock": 9,
+    "rating": 4.5,
+    "tags": ["tv stand", "media", "living room"],
+    "sku": "TVS-008",
+    "availabilityStatus": "In Stock",
+    "dimensions": "140x40x50 cm",
+    "material": "Wood & Metal",
+    "brand": "MediaHome"
+  },
+  {
+  "id": 9,
+  "title": "Luxury Armchair",
+  "category": "Living Room",
+  "price": 520,
+  "description": "Elegant luxury armchair with premium fabric and wooden legs.",
+  "images": [
+    "/assets/images/property-06.jpg"
+  ],
+    "stock": 6,
+    "rating": 4.9,
+    "tags": ["armchair", "luxury", "living room"],
+    "sku": "ARM-009",
+    "availabilityStatus": "Limited Stock",
+    "dimensions": "90x90x100 cm",
+    "material": "Velvet & Wood",
+    "brand": "EliteComfort"
+    }
+]
