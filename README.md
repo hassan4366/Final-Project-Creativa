@@ -144,9 +144,12 @@ Runs the test suite (if configured).
 
 ---
 
-## Live Demo: <a href="">Click Here</a>
+## Live Demo
+
+<a href="">Click Here</a>
+
 ---
 
 ## Developed by me
 
-Hassan Hammam <a href="https://github.com/hassan4366">Github</a>
+ <a href="https://github.com/hassan4366">Github</a>
