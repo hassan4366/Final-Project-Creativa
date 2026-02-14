@@ -146,11 +146,9 @@ Runs the test suite (if configured).
 
 ## Live Demo
 
-https://your-live-demo-link.com
-
+<a href="">Click Here</a>
 ---
 
-## Authors
+## Developed by me
 
-Hassan Hammam  
-https://github.com/hassan4366
+Hassan Hammam <a href="https://github.com/hassan4366">Clicke Here</a>
