@@ -22,7 +22,6 @@ Built with modern React architecture and a clean component structure.
 - [Available Scripts](#available-scripts)
 - [Live Demo](#live-demo)
 - [Authors](#authors)
-- [License](#license)
 
 ---
 
@@ -79,7 +78,7 @@ Villa_Agency/
 │   ├── DataApi/
 │   ├── Details/
 │   ├── Home/
-│   ├── Properiets/
+│   ├── Properties/
 │   ├── Shop/
 │   ├── App.js
 │   └── index.js
@@ -150,6 +149,6 @@ Runs the test suite (if configured).
 
 ---
 
-## Developed by me
+## Authors
 
  <a href="https://github.com/hassan4366">Github</a>
